@@ -1,0 +1,42 @@
+Data summary using describe method (stats about each column)
+
+                 Age         Gender    Impressions         Clicks  \
+count  458441.000000  458441.000000  458441.000000  458441.000000   
+mean       29.482551       0.367037       5.007316       0.092594   
+std        23.607034       0.481997       2.239349       0.309973   
+min         0.000000       0.000000       0.000000       0.000000   
+25%         0.000000       0.000000       3.000000       0.000000   
+50%        31.000000       0.000000       5.000000       0.000000   
+75%        48.000000       1.000000       6.000000       0.000000   
+max       108.000000       1.000000      20.000000       4.000000   
+
+           Signed_In  
+count  458441.000000  
+mean        0.700930  
+std         0.457851  
+min         0.000000  
+25%         0.000000  
+50%         1.000000  
+75%         1.000000  
+max         1.000000  
+The first 10 rows of data is:
+
+   Age  Gender  Impressions  Clicks  Signed_In
+0   36       0            3       0          1
+1   73       1            3       0          1
+2   30       0            3       0          1
+3   49       1            3       0          1
+4   47       1           11       0          1
+5   47       0           11       1          1
+6    0       0            7       1          0
+7   46       0            5       0          1
+8   16       0            3       0          1
+9   52       0            4       0          1
+For n_clusters = 2 The average silhouette_score is : 0.511990061018
+For n_clusters = 3 The average silhouette_score is : 0.589942215539
+For n_clusters = 4 The average silhouette_score is : 0.502262966324
+
+
+For n_clusters = 2 The average silhouette_score is : 0.499056376521
+For n_clusters = 3 The average silhouette_score is : 0.557121987248
+For n_clusters = 4 The average silhouette_score is : 0.608799428283

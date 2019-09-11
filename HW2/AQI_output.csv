@@ -1,0 +1,40 @@
+AQI,ActionDay,Category,DateForecast,DateIssue,Discussion,Latitude,Longitude,ParameterName,ReportingArea,StateCode
+27,False,"{'Number': 1, 'Name': 'Good'}",2018-09-14 ,2018-09-14 ,,38.919,-77.013,O3,Metropolitan Washington,DC
+33,False,"{'Number': 1, 'Name': 'Good'}",2018-09-14 ,2018-09-14 ,,38.919,-77.013,PM2.5,Metropolitan Washington,DC
+25,False,"{'Number': 1, 'Name': 'Good'}",2018-09-15 ,2018-09-14 ,,38.919,-77.013,O3,Metropolitan Washington,DC
+29,False,"{'Number': 1, 'Name': 'Good'}",2018-09-15 ,2018-09-14 ,,38.919,-77.013,PM2.5,Metropolitan Washington,DC
+24,False,"{'Number': 1, 'Name': 'Good'}",2018-09-16 ,2018-09-14 ,,38.919,-77.013,O3,Metropolitan Washington,DC
+25,False,"{'Number': 1, 'Name': 'Good'}",2018-09-16 ,2018-09-14 ,,38.919,-77.013,PM2.5,Metropolitan Washington,DC
+34,False,"{'Number': 1, 'Name': 'Good'}",2018-09-17 ,2018-09-14 ,,38.919,-77.013,O3,Metropolitan Washington,DC
+38,False,"{'Number': 1, 'Name': 'Good'}",2018-09-17 ,2018-09-14 ,,38.919,-77.013,PM2.5,Metropolitan Washington,DC
+35,False,"{'Number': 1, 'Name': 'Good'}",2018-09-18 ,2018-09-14 ,,38.919,-77.013,O3,Metropolitan Washington,DC
+38,False,"{'Number': 1, 'Name': 'Good'}",2018-09-18 ,2018-09-14 ,,38.919,-77.013,PM2.5,Metropolitan Washington,DC
+47,False,"{'Number': 1, 'Name': 'Good'}",2018-09-19 ,2018-09-14 ,,38.919,-77.013,O3,Metropolitan Washington,DC
+38,False,"{'Number': 1, 'Name': 'Good'}",2018-09-19 ,2018-09-14 ,,38.919,-77.013,PM2.5,Metropolitan Washington,DC
+-1,False,"{'Number': 1, 'Name': 'Good'}",2018-09-14 ,2018-09-14 ,,40.7949,-81.4576,O3,Canton/Massillon,OH
+-1,False,"{'Number': 1, 'Name': 'Good'}",2018-09-15 ,2018-09-14 ,,40.7949,-81.4576,O3,Canton/Massillon,OH
+-1,False,"{'Number': 2, 'Name': 'Moderate'}",2018-09-14 ,2018-09-14 ,,39.768,-104.873,O3,Denver,CO
+-1,False,"{'Number': 2, 'Name': 'Moderate'}",2018-09-14 ,2018-09-14 ,,39.768,-104.873,PM2.5,Denver,CO
+-1,False,"{'Number': 2, 'Name': 'Moderate'}",2018-09-15 ,2018-09-14 ,,39.768,-104.873,O3,Denver,CO
+-1,False,"{'Number': 2, 'Name': 'Moderate'}",2018-09-15 ,2018-09-14 ,,39.768,-104.873,PM2.5,Denver,CO
+-1,False,"{'Number': 1, 'Name': 'Good'}",2018-09-14 ,2018-09-14 ,,33.65,-84.43,O3,Atlanta,GA
+-1,False,"{'Number': 1, 'Name': 'Good'}",2018-09-14 ,2018-09-14 ,,33.65,-84.43,PM2.5,Atlanta,GA
+-1,False,"{'Number': 1, 'Name': 'Good'}",2018-09-15 ,2018-09-14 ,,33.65,-84.43,O3,Atlanta,GA
+-1,False,"{'Number': 1, 'Name': 'Good'}",2018-09-15 ,2018-09-14 ,,33.65,-84.43,PM2.5,Atlanta,GA
+49,False,"{'Number': 1, 'Name': 'Good'}",2018-09-14 ,2018-09-13 ,,34.0663,-118.2266,O3,Central LA CO,CA
+57,False,"{'Number': 2, 'Name': 'Moderate'}",2018-09-14 ,2018-09-13 ,,34.0663,-118.2266,PM2.5,Central LA CO,CA
+32,False,"{'Number': 1, 'Name': 'Good'}",2018-09-14 ,2018-09-13 ,,34.0663,-118.2266,PM10,Central LA CO,CA
+9,False,"{'Number': 1, 'Name': 'Good'}",2018-09-14 ,2018-09-13 ,,34.0663,-118.2266,NO2,Central LA CO,CA
+8,False,"{'Number': 1, 'Name': 'Good'}",2018-09-14 ,2018-09-13 ,,34.0663,-118.2266,CO,Central LA CO,CA
+50,False,"{'Number': 1, 'Name': 'Good'}",2018-09-15 ,2018-09-14 ,,34.0663,-118.2266,O3,Central LA CO,CA
+65,False,"{'Number': 2, 'Name': 'Moderate'}",2018-09-15 ,2018-09-14 ,,34.0663,-118.2266,PM2.5,Central LA CO,CA
+39,False,"{'Number': 1, 'Name': 'Good'}",2018-09-15 ,2018-09-14 ,,34.0663,-118.2266,PM10,Central LA CO,CA
+11,False,"{'Number': 1, 'Name': 'Good'}",2018-09-15 ,2018-09-14 ,,34.0663,-118.2266,NO2,Central LA CO,CA
+8,False,"{'Number': 1, 'Name': 'Good'}",2018-09-15 ,2018-09-14 ,,34.0663,-118.2266,CO,Central LA CO,CA
+21,False,"{'Number': 1, 'Name': 'Good'}",2018-09-14 ,2018-09-13 ,For Sept 13-18: Mostly GOOD air quality continues as we transition into typical September-like weather with good breezes and chances for rain.,47.562,-122.3405,PM2.5,Seattle-Bellevue-Kent Valley,WA
+21,False,"{'Number': 1, 'Name': 'Good'}",2018-09-15 ,2018-09-13 ,For Sept 13-18: Mostly GOOD air quality continues as we transition into typical September-like weather with good breezes and chances for rain.,47.562,-122.3405,PM2.5,Seattle-Bellevue-Kent Valley,WA
+21,False,"{'Number': 1, 'Name': 'Good'}",2018-09-16 ,2018-09-13 ,For Sept 13-18: Mostly GOOD air quality continues as we transition into typical September-like weather with good breezes and chances for rain.,47.562,-122.3405,PM2.5,Seattle-Bellevue-Kent Valley,WA
+21,False,"{'Number': 1, 'Name': 'Good'}",2018-09-17 ,2018-09-13 ,For Sept 13-18: Mostly GOOD air quality continues as we transition into typical September-like weather with good breezes and chances for rain.,47.562,-122.3405,PM2.5,Seattle-Bellevue-Kent Valley,WA
+21,False,"{'Number': 1, 'Name': 'Good'}",2018-09-18 ,2018-09-13 ,For Sept 13-18: Mostly GOOD air quality continues as we transition into typical September-like weather with good breezes and chances for rain.,47.562,-122.3405,PM2.5,Seattle-Bellevue-Kent Valley,WA
+-1,False,"{'Number': 1, 'Name': 'Good'}",2018-09-14 ,2018-09-14 ,,28.505,-81.374,PM2.5,Orlando,FL
+-1,False,"{'Number': 1, 'Name': 'Good'}",2018-09-15 ,2018-09-14 ,,28.505,-81.374,O3,Orlando,FL
