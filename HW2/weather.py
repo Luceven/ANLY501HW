@@ -11,7 +11,7 @@ from urllib.request import urlopen
 
 def Weather():
 	### for open weather map
-	API_KEY = '59d2d502e4fe89803aadc16fda31c06e'
+	API_KEY = '###YOUR_API_KEY###'
 	cnt = 5
 	base_url = 'http://api.openweathermap.org/data/2.5/find?'
 	#city_name = 'Washington D.C.'
