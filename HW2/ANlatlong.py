@@ -8,7 +8,7 @@ from urllib.request import urlopen
 
 def AirNow():
 	baseURL = "http://www.airnowapi.org/aq/forecast/"
-	api_key = '22AAC340-751E-4CDF-A907-17C3F98922B1'
+	api_key = '###YOUR_API_KEY###'
 	#date = '2018-08-04'
 	# get the current date as input
 	now = datetime.datetime.now()
